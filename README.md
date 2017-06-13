@@ -26,7 +26,7 @@ document.write('<script src="http://' + (location.host || 'localhost').split(':'
 ':35729/livereload.js?snipver=1"></' + 'script>')
     
 </script>
-
+~~~
  
 **PASO-10**  
 :crear un archivo **server.js** en la raiz de la carpeta y copiar este codigo:
@@ -66,7 +66,7 @@ exts:['html','css','js']
 });
 server.watch(__dirname+"/public");
 console.log("sevidor cargando puerto "+port);
-
+~~~
 **PASO-11**
 :levatar el servidor en la consola con los comandos **node server.js**
 
