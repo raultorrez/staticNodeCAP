@@ -1,0 +1,22 @@
+{
+  "name": "proyectocap",
+  "version": "1.0.0",
+  "description": "este proyecto es para el centro de capaciotacin maria de los angelwsç",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "centro",
+    "maria",
+    "de",
+    "los",
+    "angeles"
+  ],
+  "author": "raul torrez",
+  "license": "ISC",
+  "dependencies": {
+    "livereload": "^0.6.2",
+    "node-static": "^0.7.9"
+  }
+}

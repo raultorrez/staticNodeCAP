@@ -1,0 +1,84 @@
+body{
+    margin: 0;
+    padding:0;
+     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+h1{
+    font-size: 70px;
+    font-family: 'Pacifico', cursive;
+    margin: 10px;
+}
+h2{
+    
+    font-size: 45px;
+}
+h3{
+    font-size:35px;
+}
+
+input{
+	margin:0;
+}
+
+button{
+	padding:10px;
+	border-radius:4px;
+	background-color:#69090f;
+	color:white;
+	border:none;
+}
+
+.banner{
+	background-color:#ddd;
+	padding:80px;
+	height:300px;
+}
+
+.banner img{
+	width:200px;
+}
+.banner div{
+	float:left;
+}
+
+.banner h1 span{
+	color:#970c16;
+}
+
+
+label{
+	display:inline-block;
+	width:90px;
+	vertical-align:top;
+	font-size:25px;
+}
+.formulario{
+	background-color:#970c16;
+	padding:20px;
+	padding-bottom:20px;
+	color:white;
+}
+.formulario form div{
+	margin:15px;
+}
+.formulario button{
+	float:right;
+}
+
+.formulario form input{
+	background-color:#970c16;
+	height:25px;
+	width:250px;
+	border:1px solid white;
+	border-radius:5px;
+}
+.formulario textarea{
+	height:125px;
+	width:250px;
+	border:1px solid black;
+	border-radius:5px;
+}
+.formulario div{
+	width:350px;
+	margin:auto;
+}
